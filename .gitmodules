@@ -1,3 +1,6 @@
 [submodule "sub2"]
 	path = sub2
 	url = https://github.com/flashhu/sub2
+[submodule "sub1"]
+	path = sub1
+	url = https://github.com/flashhu/sub1
